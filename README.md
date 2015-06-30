@@ -1,6 +1,3 @@
-# Ruby on Rails Tutorial: sample application
+# Family Social Media App
 
-This is the sample application for the 
-[*Ruby on Rails Tutorial: 
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+This is my project for week 10...a social media app for families (so you don't have to scroll your feed for hours just to find your pops).
